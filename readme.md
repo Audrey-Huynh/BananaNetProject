@@ -1,6 +1,6 @@
 # BananaNet
 
- BananaNet is a model re-trained from the ResNet-18 network; its purpose is to identify whether a banana is ripe or unripe. Determining whether food is ripe or unripe is useful on a day-to-day basis (e.g. going grocery shopping) and can also be applied to ensure the consistent quality of food in factories and production lines.
+ BananaNet is a model re-trained from the ResNet-18 network; its purpose is to identify whether a banana is ripe or unripe. Determining whether food is ripe or unripe is useful on a day-to-day basis (e.g. going grocery shopping) and can also be applied to ensure the consistent quality of food in factory production lines.
  
 ![bananas](https://user-images.githubusercontent.com/86124524/183235282-bb5f54c6-5955-4e9c-af7e-698aa57146ed.png)
 

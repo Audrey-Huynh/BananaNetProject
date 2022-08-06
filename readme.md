@@ -69,7 +69,7 @@ Note: You can replace “C:\Users\Public” in the above command with any desire
  
 ![demo8](https://user-images.githubusercontent.com/86124524/183265459-317307f3-691b-4708-a5ef-74948065112a.png)
 
-8. Navigate to your desktop folder and click open the unripe_banana.jpg. Your result will look similar to this:
+8. Navigate to “C:\Users\Public” (or whatever path you entered in the previous step) on your files explorer and click open the unripe_banana.jpg. Your result will look similar to this:
 
 ![demo9](https://user-images.githubusercontent.com/86124524/183265485-73a15718-54c9-4885-9019-1c4819bd1308.png)
 

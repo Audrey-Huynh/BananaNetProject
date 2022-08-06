@@ -62,8 +62,8 @@ This BananaNet folder contains a dataset of banana images. You will be classifyi
 
 6. Run this command to see how the model operates on an image from the unripe folder.
 `imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/unripe/1.jpg data/unripe_banana.jpg`
-7. When done, open Powershell in a new window and use scp to look at the image on your host computer, and enter your Jetson Nano password when prompted (replace <nanousername> with your Jetson Nano username, and replace <hostusername> with your host computer username):
-Windows: `scp <nanousername>@192.168.55.1:/home/<nanousername>/jetson-inference/python/training/classification/data/unripe_banana.jpg “C:\Users\Public”`
+7. When done, open Powershell in a new window and use scp to look at the image on your host computer, and enter your Jetson Nano password when prompted (replace nanousername with your Jetson Nano username, and replace nano-IP-address with your Jetson Nano network IP address):
+Windows: `scp <nanousername>@<nano-IP-address>:/home/<nanousername>/jetson-inference/python/training/classification/data/unripe_banana.jpg “C:\Users\Public”`
 
 Note: You can replace “C:\Users\Public” in the above command with any desired path that you want your image to go to on your host computer.
  

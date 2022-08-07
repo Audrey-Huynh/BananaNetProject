@@ -10,7 +10,7 @@ The images I used in my dataset to train the model are all Cavendish bananas (wh
 
 ## The Algorithm
 
-To create BananaNet, I re-trained the ResNet-18 image classification network using pytorch. For this project, I assembled my own dataset of banana images. This dataset had training, testing, and validation folders along with a labels text file that had a total of two classes: ripe and unripe. The training, testing, and validation folders each contained banana images from both of these classes. To classify images using the re-trained model, I ran the already existing imagenet.py file on the Jetson Nano.
+For this project, I assembled my own dataset of banana images. This dataset had training, testing, and validation folders along with a labels text file that had a total of two classes: ripe and unripe. The training, testing, and validation folders each contained banana images from both of these classes. To create BananaNet, I re-trained the ResNet-18 image classification network with this dataset using pytorch. Afterwards, I ran the already existing imagenet.py file on the Jetson Nano to classify images using the re-trained model. Through this file, BananaNet accepts input in the form of an image/video, and it outputs the image and classifies whether it is ripe or unripe. The output image also includes a percentage of how confident the model is of its inference.
 
 ## Running this project
 

@@ -74,4 +74,4 @@ Note: You can replace “C:\Users\Public” in the above command with any desire
 
 ![demo9](https://user-images.githubusercontent.com/86124524/183265485-73a15718-54c9-4885-9019-1c4819bd1308.png)
 
-[View a video explanation here](video link)
+[Video explanation: ](https://youtu.be/hpSNJJmsiDc)
